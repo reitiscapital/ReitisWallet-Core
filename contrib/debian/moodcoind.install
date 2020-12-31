@@ -1,0 +1,2 @@
+debian/bin/REITISd usr/bin
+src/REITISd usr/lib/REITIS

@@ -1,0 +1,5 @@
+REITIS-Core usr/bin
+share/pixmaps/REITIS32.xpm usr/share/pixmaps
+share/pixmaps/REITIS80.xpm usr/share/pixmaps
+debian/REITIS-Core.desktop usr/share/applications
+debian/REITIS-Core.protocol usr/share/kde4/services/

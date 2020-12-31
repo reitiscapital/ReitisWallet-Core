@@ -1,0 +1,11 @@
+[Protocol]
+exec=REITIS-Core '%u'
+protocol=REITIS
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
